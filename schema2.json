@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Hour",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "Country_Name",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "Operator_Name",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "Attempts",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "Answered",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+	{
+        "name": "A_Release",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "NER",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "ASR",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "ConVTime_Min",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "ACT_Sec",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "CST_Sec",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    }
+]	
+	
